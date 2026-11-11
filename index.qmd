@@ -1,11 +1,14 @@
 ---
-title: "louiseforster21.github.io"
+title: "Louise Forster"
+about:
+   template: jolla
+   image: images/Profile_picture.jpg
+   links:
+     - icon: github
+       text: Github
+       href: https://github.com/louiseforster21
 ---
 
-This is a Quarto website.
+*\**Graduate Student MSc Methods and Statistics of the Behavioural, Biomedical and Social Sciences\*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Utrecht University \| The Netherlands
