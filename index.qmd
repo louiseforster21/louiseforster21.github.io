@@ -9,6 +9,6 @@ about:
        href: https://github.com/louiseforster21
 ---
 
-*\**Graduate Student MSc Methods and Statistics of the Behavioural, Biomedical and Social Sciences\*
+*Graduate Student MSc Methods and Statistics of the Behavioural, Biomedical and Social Sciences*
 
-Utrecht University \| The Netherlands
+Utrecht University | The Netherlands

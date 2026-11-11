@@ -4,16 +4,18 @@ project:
 website:
   title: "Louise Forster"
   navbar:
+    background: "#C8CEB2"
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About me
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
     theme: cosmo
-    backgroundcolor: "#C8CEB2"
     css: styles.css
     toc: true
 
